@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a330a8bb-9bf3-41ed-bbad-357492ceb510}">
+		<property name="assetPath">
+			<value>mine-mine_Z6BwRzI.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.8799999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ae25dea5-7cca-432b-bdcf-c551ecadd9fd}</destination>
+		</relationship>
+	</object>
+</objects>
